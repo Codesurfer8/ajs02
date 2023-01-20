@@ -1,0 +1,23 @@
+{
+  "name": "ajs02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codesurfer8/ajs02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codesurfer8/ajs02/issues"
+  },
+  "homepage": "https://github.com/Codesurfer8/ajs02#readme",
+  "dependencies": {
+    "@codesurfer8/ajs": "^1.0.0"
+  }
+}
